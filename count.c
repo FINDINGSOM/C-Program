@@ -26,8 +26,7 @@ int main()
             }
         s++;
     }
-    printf("\n Number of Vowels in this String = %d", vowels);
-    printf("\n Number of Consonants in this String = %d", consonants);
+    printf("\n Vowels: %d \n consonants : %d",vowels,consonants); // print number if vowels and consonants
       
       return 0;
 }
