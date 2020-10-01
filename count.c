@@ -26,6 +26,7 @@ int main()
             }
         s++;
     }
-    
+    printf("\n Vowels: %d \n consonants : %d",vowels,consonants); // print number if vowels and consonants
+      
       return 0;
 }
